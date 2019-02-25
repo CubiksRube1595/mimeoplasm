@@ -1,2 +1,2 @@
 # mimeoplasm
-No clue!
+The Mimeoplasm: A repository for all of the junk. 
